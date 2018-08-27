@@ -21,7 +21,7 @@ import java.util.Random;
 
 @Slf4j
 public class MyUtil {
-    public static String appAuthToken = "fe75754a316db45912e6824a6499b0e9be719179a3bebbee3f43da00a55964e755a63b68b622988922b4af5140fd407e";//为测试方便可以将token定义为静态变量
+    public static String appAuthToken = "应用的token";//为测试方便可以将token定义为静态变量
     public static String ePoiId = "123456789";//测试门店的Id
     public static String signKey = "你的密钥";
     public static String developerId = "开发者Id";
